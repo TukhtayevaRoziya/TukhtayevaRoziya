@@ -31,35 +31,13 @@
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=fdeniz07&theme=radical&date_format=j%20M%5B%20Y%5D" />
 </a>
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fdeniz07&show_icons=true&theme=radical" />
-</a>
--->
+
 <a href="https://github.com/fdeniz07">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdeniz07&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
 </a>
 </div>
 <br />
-<!--
-<p float="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=fdeniz07&theme=react-dark" width="635" /> 
-</p>
--->
-<hr />
-<!-- <table><tr>
-    <td valign="top" width="100%">
-        <div align="center">
-           <h2> <b> Language and Tools </b> </h2>
-        </div>
-        <div align="center">  
-         <img style="margin: 10px" alt="JavaScript" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-            <img style="margin: 10px" alt="Vue" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/vue/vue.png" />
-            <img style="margin: 10px"  alt="Express" height="50" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png"/>  
-            <img style="margin: 10px" alt="Node.js" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-        </div></td><td valign="top" width="50%">
-        </tr>
-</table>-->
+
 <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=fdeniz07&theme=xcode" /></div>
 </div>
 
