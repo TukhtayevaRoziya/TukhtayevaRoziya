@@ -15,15 +15,6 @@
 
 </br>
 
-<!--![Visitor Count](https://profile-counter.glitch.me/{fdeniz07}/count.svg)-->
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=fdeniz07&label=Profile%20views&color=0e75b6&style=flat" alt="fdeniz07" /> </p>-->
-<hr />
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="left" src="https://github-profile-trophy.vercel.app/?username=fdeniz07&theme=darkhub" alt="fdeniz07" />
-  </a> 
-</div>
-
 <div>
 <a href="https://github.com/fdeniz07">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fdeniz07&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" />
