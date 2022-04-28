@@ -23,8 +23,8 @@
 </div>
 <br />
 
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TukhtayevaRoziya&theme=xcode" /></div>
-</div>
+<!-- <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TukhtayevaRoziya&theme=xcode" /></div>
+</div> -->
 
 
 
