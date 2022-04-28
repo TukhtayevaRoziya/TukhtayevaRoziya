@@ -2,18 +2,16 @@
 
 **I'm [TukhtayevaRoziya](https://github.com/TukhtayevaRoziya). I'm a software engineer and Full-Stack Developer 👨‍💻 who is passionate about Chess and open source.**
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahidullah-shadab-2712031a3/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Wahidul74626845)
-[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shadabwahidullah@gmail.com)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shadabwahidullah)
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roziyabegimtuxtayeva@gmail.com)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TukhtayevaRoziya)
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=shadabwahidullah&show_icons=true&hide_border=true">
 
 ## 🧐 About
 
-- 👨‍💻 **My portfolio**: https://shadabwahidullah.github.io/Portfolio_2/
-- 📫 **How to reach me**: shadabwahidullah@gmail.com
+- 👨‍💻 **My portfolio**: https://TukhtayevaRoziya.github.io/My_Portfolio/
+- 📫 **How to reach me**: roziyabegimtuxtayeva@gmail.com
 - 🌱 **Languages and Tools**: 
 
     <div>
@@ -31,5 +29,5 @@
     
    ### Number of visits:
 <p align="center">
-   <img src="https://profile-counter.glitch.me/{shadabwahidullah}/count.svg"/>
+   <img src="https://profile-counter.glitch.me/{TukhtayevaRoziya}/count.svg"/>
 </p>
