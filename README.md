@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-**I'm [TukhtayevaRoziya](https://github.com/TukhtayevaRoziya). I'm a software engineer and React Frontend Developer 👨‍💻 who is passionate about Chess and open source.**
+**I'm [TukhtayevaRoziya](https://github.com/TukhtayevaRoziya). I'm React Frontend Developer 👨‍💻 who is passionate about Chess and open source.**
 
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roziyabegimtuxtayeva@gmail.com)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TukhtayevaRoziya)
