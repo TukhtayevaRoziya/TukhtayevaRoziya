@@ -26,9 +26,6 @@
 <!-- <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TukhtayevaRoziya&theme=xcode" /></div>
 </div> -->
 
-
-
-
 ## My Utilities and Achievements
   
   ### Frontend
@@ -46,8 +43,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />   
 </p>    
     <br>
-    <br>
-    
+   
    ### Number of visits:
 <p align="center">
    <img src="https://profile-counter.glitch.me/{TukhtayevaRoziya}/count.svg"/>
