@@ -6,7 +6,7 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TukhtayevaRoziya)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shadabwahidullah&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TukhtayevaRoziya&show_icons=true&hide_border=true">
 
 ## 🧐 About
 
