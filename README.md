@@ -9,18 +9,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TukhtayevaRoziya&show_icons=true&hide_border=true">
 
 ## 🧐 About
-
-- 👨‍💻 **My portfolio**: https://TukhtayevaRoziya.github.io/My_Portfolio/
-- 📫 **How to reach me**: roziyabegimtuxtayeva@gmail.com
-
-</br>
-
 <div>
 
 <a href="https://github.com/TukhtayevaRoziya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TukhtayevaRoziya&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
 </a>
 </div>
+</br>
+
+
 <br />
 
 <!-- <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TukhtayevaRoziya&theme=xcode" /></div>
