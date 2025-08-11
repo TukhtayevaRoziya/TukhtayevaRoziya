@@ -42,7 +42,7 @@ Displays real-time weather and 7-day forecast using OpenWeather API.
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TukhtayevaRoziya&show_icons=true&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TukhtayevaRoziya&layout=compact&theme=radical) 
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TukhtayevaRoziya&theme=radical)  
 
 ---
