@@ -23,41 +23,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
----
+## 🧐 About
+<div>
 
-## 📌 Featured Projects
-### 🛍 E-Commerce Platform (React + Redux + Node.js)  
-Full-featured store with cart, checkout, and admin dashboard.  
-[🔗 Live Demo](#) | [💻 Repo](#)  
-
-### 📅 Task Manager App (React + TypeScript)  
-Task tracking app with drag-and-drop support and dark mode.  
-[🔗 Live Demo](#) | [💻 Repo](#)  
-
-### 🌍 Weather Dashboard (React + API Integration)  
-Displays real-time weather and 7-day forecast using OpenWeather API.  
-[🔗 Live Demo](#) | [💻 Repo](#)  
-
----
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: stretch;">
-
-  <div style="flex: 1; min-width: 45%; height: 200px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TukhtayevaRoziya&layout=compact&theme=radical" alt="Most Used Languages" style="height: 100%;" />
-  </div>
-
-  <div style="flex: 1; min-width: 45%; height: 200px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=TukhtayevaRoziya&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 100%;" />
-  </div>
-
+<a href="https://github.com/TukhtayevaRoziya">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TukhtayevaRoziya&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
+</a>
 </div>
+</br>
 
----
 
-<div style="width: 100%; text-align: center; margin-top: 20px;">
-  <img src="https://streak-stats.demolab.com/?user=TukhtayevaRoziya&theme=radical" alt="GitHub Profile Details" style="width: 100%;" />
-</div>
+<br />
 
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TukhtayevaRoziya&theme=xcode" /></div>
+</div> 
 ---
 
 ## 📬 Let's Connect!
