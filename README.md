@@ -1,29 +1,57 @@
-# 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+# Hi there, I'm Roziya! 👋  
+🚀 **React Frontend Developer** | Passionate about building modern, responsive, and user-friendly web apps.  
 
-**I'm [TukhtayevaRoziya](https://github.com/TukhtayevaRoziya). I'm React Frontend Developer 👩‍💻 who is passionate about coding and open source.**
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TukhtayevaRoziya)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
-[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roziyabegimtuxtayeva@gmail.com)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TukhtayevaRoziya)
+---
 
+## 🛠 Tech Stack
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-<img align="right" width='55%' src="https://github-readme-stats.vercel.app/api?username=TukhtayevaRoziya&show_icons=true&hide_border=true">
+**Backend & Tools:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-## 🧐 About
-<div>
+---
 
-<a href="https://github.com/TukhtayevaRoziya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TukhtayevaRoziya&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
-</a>
-</div>
-</br>
+## 📌 Featured Projects
+### 🛍 E-Commerce Platform (React + Redux + Node.js)  
+Full-featured store with cart, checkout, and admin dashboard.  
+[🔗 Live Demo](#) | [💻 Repo](#)  
 
+### 📅 Task Manager App (React + TypeScript)  
+Task tracking app with drag-and-drop support and dark mode.  
+[🔗 Live Demo](#) | [💻 Repo](#)  
 
-<br />
+### 🌍 Weather Dashboard (React + API Integration)  
+Displays real-time weather and 7-day forecast using OpenWeather API.  
+[🔗 Live Demo](#) | [💻 Repo](#)  
 
-<!-- <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TukhtayevaRoziya&theme=xcode" /></div>
-</div> -->
+---
 
-   ### Number of visits:
-<p align="center">
-   <img src="https://profile-counter.glitch.me/{TukhtayevaRoziya}/count.svg"/>
-</p>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TukhtayevaRoziya&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=TukhtayevaRoziya&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TukhtayevaRoziya&layout=compact&theme=radical)
+
+---
+
+## 📬 Let's Connect!
+💌 **Email:** your@email.com  
+💼 **Portfolio:** [yourportfolio.com](#)  
+📱 **LinkedIn:** [linkedin.com/in/yourname](#)  
+
+---
+
+⭐ *Always exploring new technologies and contributing to open-source projects.*
