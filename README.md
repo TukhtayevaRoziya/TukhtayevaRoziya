@@ -40,11 +40,23 @@ Displays real-time weather and 7-day forecast using OpenWeather API.
 
 ---
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TukhtayevaRoziya&layout=compact&theme=radical) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TukhtayevaRoziya&show_icons=true&theme=radical) 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: stretch;">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=TukhtayevaRoziya&theme=radical)  
+  <div style="flex: 1; min-width: 280px; height: 200px; display: flex; align-items: center; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TukhtayevaRoziya&layout=compact&theme=radical" alt="Most Used Languages" style="height: 100%;" />
+  </div>
+
+  <div style="flex: 1; min-width: 280px; height: 200px; display: flex; align-items: center; justify-content: center;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TukhtayevaRoziya&theme=radical" alt="GitHub Stats" style="height: 100%;" />
+  </div>
+
+</div>
+
+---
+
+<div style="width: 100%; text-align: center; margin-top: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TukhtayevaRoziya&theme=radical" alt="GitHub Profile Details" style="width: 100%;" />
+</div>
 
 ---
 
