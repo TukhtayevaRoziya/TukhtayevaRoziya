@@ -1,10 +1,12 @@
 # Hi there, I'm Roziya! 👋  
 🚀 **React Frontend Developer** | Passionate about building modern, responsive, and user-friendly web apps.  
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your@email.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:roziyabegimtuxtayeva@gmail.com
+)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TukhtayevaRoziya)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://tukhtayevaroziya.github.io/portfolio)
 ![](https://komarev.com/ghpvc/?username=TukhtayevaRoziya&color=green)
+
 ---
 
 ## 🛠 Tech Stack
@@ -44,9 +46,9 @@
 ---
 
 ## 📬 Let's Connect!
-💌 **Email:** your@email.com  
-💼 **Portfolio:** [yourportfolio.com](#)  
-📱 **LinkedIn:** [linkedin.com/in/yourname](#)  
+💌 **Email:** roziyabegimtuxtayeva@gmail.com  
+💼 **Portfolio:** [https://tukhtayevaroziya.github.io/portfolio](#)  
+📱 **LinkedIn:** [https://www.linkedin.com/in/roziya-tukhtayeva-07b447241/](#)  
 
 ---
 
