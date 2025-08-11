@@ -23,6 +23,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
+
+<img align="right" width='55%' src="https://github-readme-stats.vercel.app/api?username=TukhtayevaRoziya&show_icons=true&hide_border=true">
+
 ## 🧐 About
 <div>
 
@@ -35,8 +38,14 @@
 
 <br />
 
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TukhtayevaRoziya&theme=xcode" /></div>
-</div> 
+<!-- <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TukhtayevaRoziya&theme=xcode" /></div>
+</div> -->
+
+   ### Number of visits:
+<p align="center">
+   <img src="https://profile-counter.glitch.me/{TukhtayevaRoziya}/count.svg"/>
+</p>
+
 ---
 
 ## 📬 Let's Connect!
