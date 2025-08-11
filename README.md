@@ -55,7 +55,7 @@ Displays real-time weather and 7-day forecast using OpenWeather API.
 ---
 
 <div style="width: 100%; text-align: center; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TukhtayevaRoziya&layout=compact&theme=radical" alt="GitHub Profile Details" style="width: 100%;" />
+  <img src="https://streak-stats.demolab.com/?user=TukhtayevaRoziya&theme=radical" alt="GitHub Profile Details" style="width: 100%;" />
 </div>
 
 ---
