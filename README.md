@@ -47,7 +47,7 @@ Displays real-time weather and 7-day forecast using OpenWeather API.
   </div>
 
   <div style="flex: 1; min-width: 280px; height: 200px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://streak-stats.demolab.com/?user=TukhtayevaRoziya&theme=radical" alt="GitHub Stats" style="height: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TukhtayevaRoziya&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 100%;" />
   </div>
 
 </div>
