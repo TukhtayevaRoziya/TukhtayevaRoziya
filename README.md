@@ -43,7 +43,7 @@
 
    ### Number of visits:
 <p align="center">
-   <img src="https://profile-counter.glitch.me/{TukhtayevaRoziya}/count.svg"/>
+   <img src="https://komarev.com/ghpvc/?username=TukhtayevaRoziya&color=green"/>
 </p>
 
 ---
