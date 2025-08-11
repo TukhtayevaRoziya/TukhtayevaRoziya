@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your@email.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TukhtayevaRoziya)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
-
+![](https://komarev.com/ghpvc/?username=TukhtayevaRoziya&color=green)
 ---
 
 ## 🛠 Tech Stack
@@ -40,11 +40,6 @@
 
 <!-- <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TukhtayevaRoziya&theme=xcode" /></div>
 </div> -->
-
-   ### Number of visits:
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=TukhtayevaRoziya&color=green"/>
-</p>
 
 ---
 
